@@ -9,7 +9,9 @@
 
 - 🏫 Education **B.S. Computer Science & B.A. Applied Mathematics**
 
-- 🎓 Graduation Date **May 19th, 2024**
+- 🏆 Awards **CSU-Louis Stokes Alliance for Minority Participation Research Scholar**
+
+- 🎓 Graduating **May 19th, 2024**
 
 - 💬 Ask me about **Machine Learning, Mathematics, Algorithms, System Design**
 
