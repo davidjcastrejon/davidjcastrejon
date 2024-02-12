@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Advanced Algorithms Analysis, Spring Framework, C++**
 
-- 🏫 Education [B.S. Computer Science & B.A. Applied Mathematics](B.S. Computer Science & B.A. Applied Mathematics)
+- 🏫 Education **B.S. Computer Science & B.A. Applied Mathematics**
 
-- 🎓 Graduation Date [May 19th, 2024](May 19th, 2024)
+- 🎓 Graduation Date **May 19th, 2024**
 
 - 💬 Ask me about **Machine Learning, Mathematics, Algorithms, System Design**
 
