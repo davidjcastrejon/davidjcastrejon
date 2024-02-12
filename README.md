@@ -1,7 +1,8 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/hd/ef9a3260506271.5a4f65ff2e513.gif)](https://www.linkedin.com/in/david-castrejon-711a73166/)
+[![MasterHead](https://cdn.dribbble.com/users/165025/screenshots/2922036/spaceships-in-space.gif)](https://www.linkedin.com/in/david-castrejon-711a73166/)
 <h1 align="center">Hi 👋, I'm David Castrejon</h1>
 <h3 align="center">🚀 NASA-JPL ARCS Machine Learning Associate Researcher</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/ef9a3260506271.5a4f65ff2e513.gif">
+
+
 
 
 
