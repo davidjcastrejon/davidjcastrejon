@@ -1,6 +1,8 @@
-<img align="center" src="https://cdn.dribbble.com/users/165025/screenshots/2922036/spaceships-in-space.gif" width="400" height="250" />
+[![MasterHead](https://cdn.dribbble.com/users/165025/screenshots/2922036/spaceships-in-space.gif)](https://www.linkedin.com/in/david-castrejon-711a73166/)
+
 <h1 align="center">Hi 👋, I'm David Castrejon</h1>
 <h3 align="center">🚀 NASA-JPL ARCS Machine Learning Associate Researcher</h3>
+
 
 
 
