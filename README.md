@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidjcastrejon&label=Profile%20views&color=0e75b6&style=flat" alt="davidjcastrejon" /> </p>
 
-- 🔭 I’m currently working on [Automating Amazon Rainforest Deforestation Detection](https://github.com/davidjcastrejon/Amazon_Deforestation)
-
-- 🌱 I’m currently learning **Advanced Algorithms Analysis, Spring Framework, C++**
-
 - 🏫 Education **B.S. Computer Science & B.A. Applied Mathematics**
 
 - 🏆 Awards **CSU-Louis Stokes Alliance for Minority Participation Research Scholar**
 
 - 🎓 Graduating **May 19th, 2024**
+
+- 🔭 I’m currently working on [Automating Amazon Rainforest Deforestation Detection](https://github.com/davidjcastrejon/Amazon_Deforestation)
+
+- 🌱 I’m currently learning **Advanced Algorithms Analysis, Spring Framework, C++**
 
 - 💬 Ask me about **Machine Learning, Mathematics, Algorithms, System Design**
 
