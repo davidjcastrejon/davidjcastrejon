@@ -18,15 +18,15 @@
 
 - 🔭 I’m currently working on [Automating Amazon Rainforest Deforestation Detection](https://github.com/davidjcastrejon/Amazon_Deforestation)
 
-- 🌱 I’m currently learning **Advanced Algorithms Analysis, Spring Framework, C++**
+- 🌱 I’m currently learning **Advanced Algorithms Design & Analysis, Spring Framework, C++**
 
 - 💬 Ask me about **Machine Learning, Mathematics, Algorithms, System Design**
 
-- 📫 How to reach me **david.j.castrejon@gmail.com**
+- 📫 How to reach me: **david.j.castrejon@gmail.com**
 
-- 📄 Connect with me on LinkedIn [https://www.linkedin.com/in/david-castrejon-711a73166/](https://www.linkedin.com/in/david-castrejon-711a73166/)
+- 📄 Connect with me on LinkedIn! [https://www.linkedin.com/in/david-castrejon-711a73166/](https://www.linkedin.com/in/david-castrejon-711a73166/)
 
-- ⚡ Fun fact **I actively compete in billiards tournaments 🎱**
+- ⚡ Fun fact: **I actively compete in billiards tournaments 🎱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
