@@ -24,7 +24,7 @@
 
 - 📫 How to reach me: **david.j.castrejon@gmail.com**
 
-- 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/david-castrejon-711a73166/)!
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/david-castrejon-711a73166/)!
 
 - ⚡ Fun fact: **I actively compete in billiards tournaments 🎱**
 
