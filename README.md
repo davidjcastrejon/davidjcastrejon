@@ -16,7 +16,7 @@
 
 - 🎓 Graduating **May 19th, 2024**
 
-- 🔭 I’m currently working on [Automating Amazon Rainforest Deforestation Detection](https://github.com/davidjcastrejon/Amazon_Deforestation)
+- 🔭 I’m currently working on [A.P.E.X. : AI PLatform for Enhanced eXperience](https://github.com/kyperbelt/APEX)
 
 - 🌱 I’m currently learning **Advanced Algorithms Design & Analysis, Spring Framework, C++**
 
