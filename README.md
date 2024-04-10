@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [A.P.E.X. (AI PLatform for Enhanced eXperience)](https://github.com/kyperbelt/APEX)
 
-- 🌱 I’m currently learning **Advanced Algorithms Design & Analysis, Spring Framework, C++**
+- 🌱 I’m currently learning **Advanced Algorithms Design & Analysis, Spring Framework, Real Analysis**
 
 - 💬 Ask me about **Machine Learning, Mathematics, Algorithms, System Design**
 
