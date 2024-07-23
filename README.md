@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidjcastrejon&label=Profile%20views&color=0e75b6&style=flat" alt="davidjcastrejon" /> </p>
 
-- 🏫 Education: **M.S. Computer Science, B.S. Computer Science, B.A. Applied Mathematics**
+- 🏫 Education: **M.S. Computer Science - Artificial Intelligence Emphasis, B.S. Computer Science, B.A. Applied Mathematics**
 
 - 🏆 Awards: **CSU-Louis Stokes Alliance for Minority Participation Research Scholar**
 
