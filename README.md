@@ -10,15 +10,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidjcastrejon&label=Profile%20views&color=0e75b6&style=flat" alt="davidjcastrejon" /> </p>
 
-- 🏫 Education: **B.S. Computer Science & B.A. Applied Mathematics**
+- 🏫 Education: **M.S. Computer Science, B.S. Computer Science, B.A. Applied Mathematics**
 
 - 🏆 Awards: **CSU-Louis Stokes Alliance for Minority Participation Research Scholar**
 
-- 🎓 Graduating **May 19th, 2024**
+- 🎓 Graduating **May 27'**
 
 - 🔭 I’m currently working on [A.P.E.X. (AI PLatform for Enhanced eXperience)](https://github.com/kyperbelt/APEX)
 
-- 🌱 I’m currently learning **Advanced Algorithms Design & Analysis, Spring Framework, Amazon Web Services**
+- 🌱 I’m currently studying **Machine Learning, Computer Architecture, Amazon Web Services**
 
 - 💬 Ask me about **Machine Learning, Mathematics, Algorithms, System Design**
 
