@@ -14,8 +14,6 @@
 
 - 🏆 Awards: **CSU-Louis Stokes Alliance for Minority Participation Research Scholar**
 
-- 🎓 Graduating **May 27'**
-
 - 🔭 I’m currently working on [A.P.E.X. (AI PLatform for Enhanced eXperience)](https://github.com/kyperbelt/APEX)
 
 - 🌱 I’m currently studying **Machine Learning, Computer Architecture, Amazon Web Services**
