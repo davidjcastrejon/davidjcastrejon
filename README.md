@@ -22,7 +22,7 @@
 
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/david-castrejon-711a73166/)!
 
-- ⚡ Fun fact: **I regularly compete in billiards tournaments 🎱**
+- ⚡ Fun fact: **I love to dance west coast swing! 🕺🏽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
