@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/4a/6f/1b/4a6f1b0e9d16e3462f9e03c5de011cfa.gif)](https://www.linkedin.com/in/david-castrejon-711a73166/)
 
 <h1 align="center">Hi 👋, I'm David Castrejon</h1>
-<h3 align="center">⚡️Engineer at Intel Corporation & Grad Student at Johns Hopkins University 🎓</h3>
+<h3 align="center">⚡️SWE @ Bloomberg 💻 & Grad Student at Johns Hopkins University 🎓</h3>
 
 
 
