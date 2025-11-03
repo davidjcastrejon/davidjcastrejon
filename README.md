@@ -14,10 +14,8 @@
 
 - 🏆 Awards: **CSU-Louis Stokes Alliance for Minority Participation Research Scholar**
 
-- 🌱 I’m currently studying **Machine Learning, Computer Architecture, Amazon Web Services**
-
-- 💬 Ask me about **Machine Learning, Mathematics, Algorithms, System Design**
-
+- 🌱 I’m currently studying **Machine Learning, C++, and Computer Architecture**
+- 
 - 📫 How to reach me: **david.j.castrejon@gmail.com**
 
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/david-castrejon-711a73166/)!
